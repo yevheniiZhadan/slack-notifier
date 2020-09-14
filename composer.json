@@ -1,0 +1,16 @@
+{
+    "name": "lolly/slack",
+    "authors": [
+        {
+            "name": "Yevhenii Zhadan",
+            "email": "yevhenii.zhadan@lolly.co"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-0": {
+            "Lolly/Slack": "src/"
+        }
+    }
+}
