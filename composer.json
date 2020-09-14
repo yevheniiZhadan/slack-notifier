@@ -1,5 +1,5 @@
 {
-    "name": "lolly/slack",
+    "name": "yevheniizhadan/slack-notifier",
     "authors": [
         {
             "name": "Yevhenii Zhadan",
@@ -10,7 +10,7 @@
     "require": {},
     "autoload": {
         "psr-0": {
-            "Lolly/Slack": "src/"
+            "Lolly": "src/"
         }
     }
 }
