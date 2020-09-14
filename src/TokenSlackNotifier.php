@@ -1,6 +1,6 @@
 <?php
 
-namespace Lolly\Slack;
+namespace Yevheniizhadan\Slack\Notifier;
 
 class TokenSlackNotifier implements iNotifier
 {
