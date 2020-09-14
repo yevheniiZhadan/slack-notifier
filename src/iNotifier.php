@@ -1,6 +1,6 @@
 <?php
 
-namespace Lolly;
+namespace Lolly\Slack;
 
 interface iNotifier
 {

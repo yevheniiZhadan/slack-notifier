@@ -9,8 +9,8 @@
     "minimum-stability": "dev",
     "require": {},
     "autoload": {
-        "psr-0": {
-            "Lolly": "src/"
+        "psr-4": {
+            "Lolly\\Slack\\": "src/"
         }
     }
 }
